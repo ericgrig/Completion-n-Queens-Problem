@@ -28,13 +28,19 @@ Additional information on this project is also provided:
 
 Read_me_First.txt
 	
-Along with English, all information is presented in two more languages: French and Russian.
-This means that along with the indicated six files in English,
-there are also similar 6 files with comments in French, and the corresponding
-6 files with comments in Russian. Added to the names of these files:
+In addition to the programs with commentary in English, each of the three programs is also
+presented with commentary in two more languages: French and Russian. This means that along
+with the above three files, there are three more similar files with comments in French and
+the corresponding three files with comments in Russian. At the end of the name of these files
+are added: _Comments_in_France or _Comments_in_Russian.
 
-_Comments_in_France, or _Comments_in_Russian. 
-
+For ease of reading, all information materials (including programs source code) were prepared
+in MS Word and presented in .docx format. This allowed all information to be presented in
+a more readable form. All these materials are presented in three catalogs, depending on the
+description language: in_English, en_Francais, in_Russian. To familiarize yourself with this
+material, you need to go to the appropriate directory and download the required file from
+GitHub to your computer.
+ 
 If necessary, you can copy the .m format  executable file with comments,
 and paste into the Matlab editor window. The program will work fine.
 
@@ -74,11 +80,5 @@ of the obtained solution take no more than 0.1 seconds.
 
 
    EricGrig,   Marseille,   October,  2020
-  
-p.s. Initially, all files with information material were prepared in MS Word
-and presented in .docx format. This made it possible to present information
-in a more readable form. Since GitHub considers this file format as binary,
-I had to translate it all into .txt format. If someone wants to use these materials
-in a more convenient .docx format, write to me (ericgrig@gmail.com), I will send it.
   
   
